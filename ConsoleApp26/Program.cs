@@ -21,7 +21,7 @@ namespace ConsoleApp26
     //}
     #endregion
     internal class Program
-    {
+    { 
         static void Main(string[] args)
         {
             #region Q1
